@@ -112,11 +112,7 @@ git push origin master
 
 ## Issues
 
-- move these issues into the right place...
-- add sound transducer
-- handle general recalls
-- scale up the lights and sound 
-- build a portable container
+See [Issues](https://github.com/NickThorne123/SailRaceBox/issues) and feel free to create a [pull request](https://guides.github.com/activities/hello-world/#pr) with contributions. Here's a [guide to collaborating](https://guides.github.com/activities/hello-world/) on Git..
 
 ## Web page controlled version
 
